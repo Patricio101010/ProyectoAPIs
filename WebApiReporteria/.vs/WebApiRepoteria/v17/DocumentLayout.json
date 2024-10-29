@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alone\\OneDrive - Dimension S.A\\Nueva carpeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4549A37-9FBF-4E25-931B-92E8447CFC85}|WebApiRepoteria.BLL\\WebApiRepoteria.BLL.csproj|c:\\users\\alone\\onedrive - dimension s.a\\nueva carpeta\\webapirepoteria.bll\\implementos\\administracionexportarexcelbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4549A37-9FBF-4E25-931B-92E8447CFC85}|WebApiRepoteria.BLL\\WebApiRepoteria.BLL.csproj|solutionrelative:webapirepoteria.bll\\implementos\\administracionexportarexcelbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministracionExportarExcelBLL.cs",
+              "DocumentMoniker": "C:\\Users\\alone\\OneDrive - Dimension S.A\\Nueva carpeta\\WebApiRepoteria.BLL\\Implementos\\AdministracionExportarExcelBLL.cs",
+              "RelativeDocumentMoniker": "WebApiRepoteria.BLL\\Implementos\\AdministracionExportarExcelBLL.cs",
+              "ToolTip": "C:\\Users\\alone\\OneDrive - Dimension S.A\\Nueva carpeta\\WebApiRepoteria.BLL\\Implementos\\AdministracionExportarExcelBLL.cs",
+              "RelativeToolTip": "WebApiRepoteria.BLL\\Implementos\\AdministracionExportarExcelBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:24:46.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

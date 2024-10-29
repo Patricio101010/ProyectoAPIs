@@ -1,0 +1,556 @@
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.exe
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.exe.config
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.rsp
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.exe
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.exe.config
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.rsp
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Console.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.exe
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.exe.config
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.rsp
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\Newtonsoft.Json.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Helpers.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Mvc.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Razor.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\EPPlus.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Helpers.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Mvc.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Razor.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\Newtonsoft.Json.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\EPPlus.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CopyComplete
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.exe
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.exe.config
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csc.rsp
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.exe
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.exe.config
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\csi.rsp
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Console.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.exe
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.exe.config
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\vbc.rsp
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\Newtonsoft.Json.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Helpers.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Mvc.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Razor.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\EPPlus.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Helpers.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Mvc.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Razor.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\Newtonsoft.Json.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\EPPlus.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria\obj\Debug\WebApiRe.08E49A2F.Up2Date
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.exe
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.exe.config
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.rsp
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.exe
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.exe.config
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.rsp
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Console.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.exe
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.exe.config
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.rsp
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Newtonsoft.Json.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Helpers.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Mvc.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Razor.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\EPPlus.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Helpers.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Mvc.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Razor.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Newtonsoft.Json.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\EPPlus.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRe.08E49A2F.Up2Date
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.exe
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.exe.config
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csc.rsp
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.exe
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.exe.config
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\csi.rsp
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Console.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.exe
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.exe.config
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\vbc.rsp
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Newtonsoft.Json.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Helpers.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Mvc.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Razor.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\EPPlus.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Helpers.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Mvc.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Razor.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Newtonsoft.Json.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\EPPlus.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CopyComplete
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csc.exe
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csc.exe.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csc.rsp
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csi.exe
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csi.exe.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\csi.rsp
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Console.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\vbc.exe
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\vbc.exe.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\vbc.rsp
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\Newtonsoft.Json.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Helpers.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Http.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Mvc.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Razor.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\EPPlus.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\itextsharp.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\BouncyCastle.Cryptography.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll.config
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Helpers.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Mvc.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Razor.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\Newtonsoft.Json.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Http.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\EPPlus.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\itextsharp.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\BouncyCastle.Cryptography.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CopyComplete
+E:\pmorales\Proyecto interno\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.dll.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csc.exe
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csc.exe.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csc.rsp
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csi.exe
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csi.exe.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\csi.rsp
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.Managed.Core.targets
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.AppContext.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Collections.Immutable.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Console.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Globalization.Calendars.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Net.Http.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Net.Sockets.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Reflection.Metadata.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.ValueTuple.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Xml.XmlDocument.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\vbc.exe
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\vbc.exe.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\vbc.rsp
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\roslyn\VBCSCompiler.exe.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\Microsoft.Web.Infrastructure.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\Newtonsoft.Json.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Net.Http.Formatting.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Helpers.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Http.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Http.WebHost.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Mvc.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Razor.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\EPPlus.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\itextsharp.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\BouncyCastle.Cryptography.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.BLL.dll.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Helpers.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Mvc.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Razor.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.Deployment.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.WebPages.Razor.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\Newtonsoft.Json.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Net.Http.Formatting.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Http.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\System.Web.Http.WebHost.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\EPPlus.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\itextsharp.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\WebApiRepoteria.DAL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\BouncyCastle.Cryptography.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\es\System.Net.Http.Formatting.resources.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\es\System.Web.Http.resources.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\bin\es\System.Web.Http.WebHost.resources.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria\obj\Debug\WebApiRepoteria.csproj.CopyComplete

@@ -1,0 +1,10 @@
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\bin\Release\netstandard2.0\WebEntidades.EN.deps.json
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\bin\Release\netstandard2.0\WebEntidades.EN.dll
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\bin\Release\netstandard2.0\WebEntidades.EN.pdb
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.GeneratedMSBuildEditorConfig.editorconfig
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.AssemblyInfoInputs.cache
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.AssemblyInfo.cs
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.dll
+E:\pmorales\Proyecto interno\ContendorEntidades\WebEntidades.EN\obj\Release\netstandard2.0\WebEntidades.EN.pdb

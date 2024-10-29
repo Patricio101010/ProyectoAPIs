@@ -1,0 +1,29 @@
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.AssemblyReference.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.CoreCompileInputs.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.AssemblyReference.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.CoreCompileInputs.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.AL\obj\Debug\WebApiRepoteria.AL.pdb

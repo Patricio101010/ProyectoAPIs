@@ -1,0 +1,161 @@
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.System.Drawing.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CopyComplete
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Reporteria\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+J:\Proyectos\2024\WebApiRepoteria\WebApiRepoteria.BLL\obj\Debug\WebApiRe.4BE7F1B2.Up2Date
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRe.4BE7F1B2.Up2Date
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+C:\Users\alone\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CopyComplete
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+C:\Users\pmorales\OneDrive - Dimension S.A\Nueva carpeta\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll.config
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\itextsharp.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\itextsharp.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CopyComplete
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.AssemblyReference.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CoreCompileInputs.cache
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll.config
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.BLL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.Interfaces.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\itextsharp.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.ComponentModel.Annotations.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.dll
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.AL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\WebApiRepoteria.DAL.pdb
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\EPPlus.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\itextsharp.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Buffers.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Memory.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Numerics.Vectors.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\pmorales\Proyecto interno\WebApiReporteria\WebApiRepoteria.BLL\obj\Debug\WebApiRepoteria.BLL.csproj.CopyComplete
